@@ -1,4 +1,11 @@
+## Usage
 
+You can use the help command to get information about the tool.
+
+```sh
+sudo python3 netScanner.py --help 
+#or use -h command.
+```
 # Usage
 python netScanner.py -i ip adress/24
 To use the netscanner tool, review the command line below
