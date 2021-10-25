@@ -3,7 +3,7 @@
 You can use the help command to get information about the tool.
 
 ```sh
-sudo python3 netScanner.py --help 
+python3 netScanner.py --help 
 #or use -h command.
 ```
 
