@@ -10,7 +10,7 @@ python3 netScanner.py --help
 To use the netscanner tool, review the command line below
 
 ```sh
-sudo python3 netScanner.py -i [ip adress/24]
+sudo python3 netScanner.py -i [ip address/24]
 ```
 
 ## License
